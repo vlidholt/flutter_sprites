@@ -1,3 +1,8 @@
+# IMPORTANT: Flutter Sprites has moved
+Flutter Sprites has moved and is now known as SpriteWidget. Go here for the latest version:
+[FlutterSprites](https://fluttersprites.com) or visit the new [Github repository](https://github.com/spritewidget/spritewidget)
+
+
 # Flutter Sprites
 
 Flutter Sprites is a toolkit for building complex, high performance animations and 2D games with Flutter. Your sprite render tree lives inside a SpriteWidget that mixes seamlessly with other Flutter and Material widgets. You can use Flutter Sprites to create anything from an animated icon to a full fledged game.
