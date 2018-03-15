@@ -1,6 +1,6 @@
 # IMPORTANT: Flutter Sprites has moved
 Flutter Sprites has moved and is now known as SpriteWidget. Go here for the latest version:
-[FlutterSprites](https://fluttersprites.com) or visit the new [Github repository](https://github.com/spritewidget/spritewidget)
+[SpriteWidget - 2D Game Engine for Flutter](https://spritewidget.com) or visit the new [SpriteWidget Github repository](https://github.com/spritewidget/spritewidget)
 
 
 # Flutter Sprites
